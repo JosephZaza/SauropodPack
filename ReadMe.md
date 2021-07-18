@@ -1,4 +1,7 @@
 # Sauropod Pack Current State Report:
+
+### If you do any work with this mod I simply ask that you let me what you did so I can know how it lives!
+
 ## <span style="color:green">Ultimate goal of the mod:</span>
 ### New Dinos:
 - Plateosaurus
